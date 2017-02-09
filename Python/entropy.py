@@ -11,6 +11,7 @@ import numpy as np
 
 def calc_entropy(probs):
     return -sum(p * np.log2(p) for p in probs if p != 0)
+    
 
 def get_branch_probs(branch_splits):
     N = sum(sum(np.asarray(branch_splits)))

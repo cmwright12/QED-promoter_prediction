@@ -1,4 +1,0 @@
-Steven,apples,3.0
-Adam,cherries,4.3
-Karen,apples,5.6
-April,grapes,0.4

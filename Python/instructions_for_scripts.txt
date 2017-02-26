@@ -1,0 +1,4 @@
+Instructions for scripts
+------------------------
+Click on "Raw". Save to your computer.
+Run the script from the command line.
